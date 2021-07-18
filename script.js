@@ -8,3 +8,4 @@ btn.addEventListener("click", function () {
   body.style.backgroundColor = "red";
 });
 console.log(a);
+console.log("second change");
