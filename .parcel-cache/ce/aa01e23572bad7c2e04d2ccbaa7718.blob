@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="/index.HASH_REF_8a6e625a6f078c797be837fbf556d9ac.css">
+  </head>
+  <body class="body">
+    <h2>This is just to show how to do deployment of project..</h2>
+    <button class="btn">Press Here to Run Javascript</button>
+    <script src="/index.HASH_REF_d231a23f43d60e28ed500b93b4f5078c.js"></script>
+  </body>
+</html>

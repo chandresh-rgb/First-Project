@@ -1,0 +1,2 @@
+!function(){const e=document.querySelector(".btn"),n=document.querySelector(".body");e.addEventListener("click",(function(){console.log("javascript code is running perfectly.!!"),e.textContent="JavaScript Code is running.",n.style.backgroundColor="red"})),console.log("a varibale")}();
+//# sourceMappingURL=index.HASH_REF_e3630017c856a6c866ad16f3a77d659d.js.map

@@ -1,0 +1,1 @@
+{"mappings":"AAAA,EACA,QAAA,CACA,SAAA,CACA,qBACA,CAEA,MACA,qBACA","sources":["./style.css"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\n.body {\n  background-color: gray;\n}\n"],"names":[],"version":3,"file":"index.HASH_REF_8a6e625a6f078c797be837fbf556d9ac.css.map"}
